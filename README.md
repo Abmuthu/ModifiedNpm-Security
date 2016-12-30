@@ -4,6 +4,7 @@
                                    Instructions:
 ------------------------------------------------------------------------------
 Step 1:  Download/clone the node (node has the modified npm in it)
+
 Step 2:  Create a virtual env
 
 Install in-toto:
